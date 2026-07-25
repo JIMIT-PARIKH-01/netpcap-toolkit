@@ -1,5 +1,8 @@
 # Net / PCAP Toolkit
 
+[![CI](https://github.com/JIMIT-PARIKH-01/netpcap-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/JIMIT-PARIKH-01/netpcap-toolkit/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+
 Network analysis tools — **dependency-free**, GUI + CLI.
 
 1. **PCAP analyzer** — parses a `.pcap` capture by hand (Ethernet/IPv4/TCP/UDP) and
