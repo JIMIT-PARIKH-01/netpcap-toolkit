@@ -12,6 +12,8 @@ Network analysis tools — **dependency-free**, GUI + CLI.
 
 Standard library only (`struct`, `socket`, `subprocess`, `ipaddress`). Python 3.8+.
 
+![demo](docs/demo.png)
+
 ## ⚠️ Authorized networks only
 Scan only subnets you own or are permitted to assess.
 
